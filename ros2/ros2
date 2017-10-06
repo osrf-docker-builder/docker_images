@@ -9,11 +9,11 @@ GitRepo: https://github.com/osrf/docker_images.git
 
 Tags: r2b3-core
 Architectures: amd64
-GitCommit: 100f733a1689fd853f0ea68a2fc0b542cb4bc673
+GitCommit: 905a0eadee2e14ef4f35b7de15be910f6a732cd2
 Directory: ros2/r2b3/ubuntu/xenial/r2b3-core
 
 Tags: r2b3-ros1-bridge
 Architectures: amd64
-GitCommit: 100f733a1689fd853f0ea68a2fc0b542cb4bc673
+GitCommit: 905a0eadee2e14ef4f35b7de15be910f6a732cd2
 Directory: ros2/r2b3/ubuntu/xenial/r2b3-ros1-bridge
 
